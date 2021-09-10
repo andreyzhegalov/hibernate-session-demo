@@ -1,7 +1,7 @@
-package ru.zhegalov.test.repositories;
+package ru.zhegalov.demo.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import ru.zhegalov.test.domain.Person;
+import ru.zhegalov.demo.domain.Person;
 
 public interface PersonRepository extends JpaRepository<Person, Long> {
 }

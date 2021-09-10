@@ -1,4 +1,4 @@
-package ru.zhegalov.test;
+package ru.zhegalov.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

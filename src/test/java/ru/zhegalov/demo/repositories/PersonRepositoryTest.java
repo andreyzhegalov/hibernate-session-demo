@@ -1,11 +1,11 @@
-package ru.zhegalov.test.repositories;
+package ru.zhegalov.demo.repositories;
 
 import org.hibernate.LazyInitializationException;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
-import ru.zhegalov.test.domain.IndividualNumber;
-import ru.zhegalov.test.domain.Person;
+import ru.zhegalov.demo.domain.IndividualNumber;
+import ru.zhegalov.demo.domain.Person;
 
 import javax.persistence.EntityManager;
 

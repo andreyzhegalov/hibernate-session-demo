@@ -1,4 +1,4 @@
-package ru.zhegalov.test;
+package ru.zhegalov.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

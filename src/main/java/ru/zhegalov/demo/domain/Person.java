@@ -1,4 +1,4 @@
-package ru.zhegalov.test.domain;
+package ru.zhegalov.demo.domain;
 
 import lombok.Data;
 import lombok.experimental.Accessors;
